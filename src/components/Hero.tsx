@@ -100,7 +100,7 @@ export const Hero: React.FC = () => {
           </button>
           
           <a
-            href="#"
+            href="/resume.pdf"
             className="flex items-center gap-2 px-8 py-4 border border-white/10 bg-white/5 backdrop-blur-md text-white rounded-full font-semibold transition-all hover:bg-white/10 hover:border-white/20 active:scale-95"
           >
             Download Resume
